@@ -1,19 +1,27 @@
 # International News Bot
+
 This Telegram bot provides various information, including gold and currency rates, cryptocurrency prices, Hafez divination, prices, and prayer times. The bot is designed in Persian.
 
 ## Setup
+
 Follow these steps to set up the bot:
 
-## Install dependencies: Make sure you have the telebot and requests libraries installed. You can use the following command to install them:
+## Install dependencies: 
+
+Make sure you have the telebot and requests libraries installed. You can use the following command to install them:
 
 pip install pyTelegramBotAPI requests
 
-## Configure tokens: Create a config.py file in your project directory and paste the following code, replacing the values with your own tokens and API keys:
+## Configure tokens: 
+
+Create a config.py file in your project directory and paste the following code, replacing the values with your own tokens and API keys:
 
 #https://t.me/BotFather
+
 token = 'paste here'
 
 #https://t.me/navasan_contact_bot
+
 api_token = "paste here"
 
 #https://one-api.ir/
